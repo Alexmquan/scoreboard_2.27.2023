@@ -1,5 +1,6 @@
 let home = 0
 let away = 0
+let test = null
 
 function reset() {
   home = 0
